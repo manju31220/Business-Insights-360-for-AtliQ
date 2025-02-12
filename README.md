@@ -40,6 +40,8 @@ My dashboard contains five different views for the five departments.
 - Developed comprehensive reports on overall sales performance and unit economics by customer and product.  
 - Analyzed sales patterns and monitored key performance indicators (KPIs).  
 
+![alt text](<Sales view.png>)
+
 ---
 
 ## Supply Chain Overview  
