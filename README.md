@@ -54,6 +54,8 @@ My dashboard contains five different views for the five departments.
 - Assessed forecast accuracy, net error, and absolute error trends.  
 - Provided key metrics on demand-supply management, segmented by customer and product.  
 
+![alt text](<Supply chain view.png>)
+
 ---
 
 ## Executive Overview  
@@ -66,6 +68,8 @@ My dashboard contains five different views for the five departments.
 - Built an executive dashboard for real-time performance tracking.  
 - Visualized revenue distribution by division, customer, product, and channel, including a ribbon chart for manufacturers.  
 
+![alt text](<Executive view.png>)
+
 ---
 
 ## Marketing Overview  
@@ -77,6 +81,8 @@ My dashboard contains five different views for the five departments.
 ### Key Accomplishments  
 - Compiled region- and product-based market performance reports with unit economics analysis.  
 - Identified market trends and tracked essential KPIs.  
+
+![alt text](<Marketing view.png>)
 
 ---
 
