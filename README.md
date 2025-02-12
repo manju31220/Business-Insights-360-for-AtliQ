@@ -2,6 +2,7 @@
 
 Welcome to my dashboard on Business Insights 360 for AtliQ hardware company, a multinational hardware company.
 
+Domain : Consumer Goods Function : Sales
 
 ## Problem statement
 
