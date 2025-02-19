@@ -2,7 +2,6 @@
 
 Welcome to my dashboard on Business Insights 360 for AtliQ hardware company, a multinational hardware company.
 
-
 ## Problem statement
 
 AtliQ Hardware is a consumer goods electronics company having operations in various countries. Their business is growing rapidly and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faced a major loss in Latin America. The project manager sought a dashboard with thorough analysis and data driven insights for Finance, Sales, Marketing, Supply Chain, and Executive departments.
@@ -12,7 +11,7 @@ AtliQ Hardware is a consumer goods electronics company having operations in vari
 My dashboard contains five different views for the five departments.
 
 ### Video link for the presentation: https://youtu.be/aYynUlbWq8o
-### Power BI dashboard live link: https://app.powerbi.com/view?r=eyJrIjoiNDQ5NGJjOTUtZGU0NC00YWI2LWFkZDEtNGIzOTA0YjQ0NmU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+### live Power BI dashboard link: https://app.powerbi.com/view?r=eyJrIjoiNDQ5NGJjOTUtZGU0NC00YWI2LWFkZDEtNGIzOTA0YjQ0NmU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ---
 
